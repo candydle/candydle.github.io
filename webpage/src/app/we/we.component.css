@@ -1,0 +1,36 @@
+.withwe{
+    background-color: #333333;
+}
+
+.bla{
+    padding: 8vh;
+    display: relative;
+    text-align: center;
+    justify-content: center;
+}
+
+img{
+    border: 1px solid gray;
+    max-width: 55vh;
+    max-height: 40vh;
+}
+
+.services{
+    display: relative;
+    text-align: center;
+    justify-content: center;
+}
+
+.maxis{
+    padding-left: 130px;
+}
+
+.titleInfo{
+    color: whitesmoke;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.textGray{
+    color: gray;
+}
