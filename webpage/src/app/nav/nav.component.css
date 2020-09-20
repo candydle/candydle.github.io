@@ -1,0 +1,11 @@
+.collapse{
+    justify-content: flex-end;
+}
+
+.logo{
+    position: absolute;
+    margin-top: 8vh;
+    margin-left: 3%;
+    height: 9em;
+    width: 9em;
+}

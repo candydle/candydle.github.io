@@ -1,0 +1,12 @@
+.services{
+    display: relative;
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.titleInfo{
+    color: #ff9900;
+    font-size: 1.2em;
+    font-weight: bold;
+}
